@@ -27,7 +27,9 @@ const MenuSection = ({ category, items }) => {
   return (
     <div className="menu-section">
       <h2 onClick={() => setIsOpen(!isOpen)}>
-        <FontAwesomeIcon icon={getCategoryIcon(category)} className="category-icon" /> {category}
+        <FontAwesomeIcon icon={getCategoryIcon(category)} className="category-icon" /> 
+        {category} 
+        <FontAwesomeIcon icon={getCategoryIcon(category)} className="category-icon" />
       </h2>
       {isOpen && (
         <div className="menu-items">
