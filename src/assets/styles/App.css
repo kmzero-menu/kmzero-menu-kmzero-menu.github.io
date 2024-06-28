@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.menu {
+  max-width: 80%; /* Limita la larghezza massima del contenuto */
+  margin: 0 auto; /* Centra il contenuto */
+  padding: 20px; /* Aggiunge un po' di padding interno */
+}
+
+@media (max-width: 768px) {
+  .menu {
+    max-width: 100%;
+    padding: 10px; /* Riduce il padding su schermi piccoli */
+  }
+}

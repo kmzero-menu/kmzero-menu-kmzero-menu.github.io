@@ -1,0 +1,13 @@
+[
+    {
+      "name": "Panino 1",
+      "price": "5.00",
+      "image": "/images/panino1.jpg"
+    },
+    {
+      "name": "Panino 2",
+      "price": "6.00",
+      "image": "/images/panino2.jpg"
+    }
+  ]
+  

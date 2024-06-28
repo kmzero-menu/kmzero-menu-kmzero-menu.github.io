@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Bandidos homemade",
+		"description": "Straccetti di pollo impanati con i corn flakes",
+		"price": "4,00",
+		"image": "/images/bandidos.jpg"
+	},
+	{
+		"name": "Dippers",
+		"description": "Patata con la buccia - Prodotto surgelato",
+		"price": "5,00",
+		"image": ""
+	},
+	{
+		"name": "Dippers alla carbonara",
+		"description": "Dippers, carbo crema, guanciale e pepe nero",
+		"price": "6,00",
+		"image": ""
+	},
+	{
+		"name": "Patate stick",
+		"description": "Prodotto surgelato",
+		"price": "4,00",
+		"image": ""
+	},
+	{
+		"name": "Dippers cacio e pepe",
+		"description": "Dippers, pecorino e pepe nero",
+		"price": "6,00",
+		"image": ""
+	},
+	{
+		"name": "Polpette di pulled",
+		"description": "Polpette di pulled pork impanati nel panko, salsa BBQ",
+		"price": "6,00",
+		"image": ""
+	},
+	{
+		"name": "Polpette carbonara",
+		"description": "Polpette, carbo crema, guanciale e pepe nero",
+		"price": "5,00",
+		"image": ""
+	},
+	{
+		"name": "Polpette cacio e pepe",
+		"description": "Polpette, pecorino e pepe nero",
+		"price": "5,00",
+		"image": ""
+	}
+]
