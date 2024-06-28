@@ -5,7 +5,6 @@
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Aggiunge ombra per un effetto card */
   border-radius: 10px; /* Aggiunge bordi arrotondati */
   transition: transform 0.2s; /* Aggiunge transizione per l'effetto hover */
-  width: 100%; /* Larghezza completa per mobile di default */
 }
 
 .menu-item:hover {
@@ -23,14 +22,19 @@
   margin-top: 10px; /* Aggiunge margine superiore */
 }
 
-@media (min-width: 481px) and (max-width: 768px) {
+.menu-item .item-details h2 {
+  background-color: lightgreen;
+  border-radius: 10px;
+}
+
+@media (max-width: 1280px) {
   .menu-item {
-    width: calc(50% - 20px); /* Due elementi per riga su tablet */
+    width: 100%;
   }
 }
 
-@media (min-width: 769px) {
+@media (min-width: 1281px) {
   .menu-item {
-    width: calc(30% - 20px); /* Tre elementi per riga su desktop */
+    width: 29%; /* Larghezza completa per mobile di default */
   }
 }
