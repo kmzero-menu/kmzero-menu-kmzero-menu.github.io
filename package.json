@@ -2,7 +2,7 @@
   "name": "kmzero-menu",
   "version": "0.0.1",
   "private": true,
-  "homepage": "https://GerryNap.github.io/kmzero-menu",
+  "homepage": "https://kmzero-menu.github.io/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
     "@fortawesome/free-solid-svg-icons": "^6.5.2",
