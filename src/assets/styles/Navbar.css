@@ -1,9 +1,8 @@
-/* src/components/Navbar.css */
 .navbar {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 15px 30px; /* Aumentare il padding per maggiore spazio interno */
+  padding: 15px 30px;
   background-color: #333;
   color: #fff;
 }
@@ -20,12 +19,23 @@
 }
 
 .nav-links li {
-  margin: 0 20px; /* Aumentare il margine per più spazio tra i link */
+  margin: 0 20px;
   cursor: pointer;
 }
 
+.instagram-logo {
+  height: 100%;
+  color: #035f29 !important;
+  filter: drop-shadow(0 0 1px rgba(124, 200, 159, 0.2));
+}
+
 @media (max-width: 768px) {
-  .nav-links {
+  .nav-links li {
     display: none;
+  }
+  
+  .nav-links li.instagram {
+    display: block;
+    height: 3rem;
   }
 }

@@ -1,6 +1,7 @@
-// src/components/Navbar.js
 import React from 'react';
 import '../assets/styles/Navbar.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faInstagram } from '@fortawesome/free-brands-svg-icons';
 
 const Navbar = ({ categories, onCategoryClick }) => {
   return (
@@ -12,6 +13,11 @@ const Navbar = ({ categories, onCategoryClick }) => {
             {category}
           </li>
         ))}
+        <li className="instagram">
+          <a href="https://www.instagram.com/kmzeroitalianpub/" target="_blank" rel="noopener noreferrer">
+            <FontAwesomeIcon icon={faInstagram} className="instagram-logo"/>
+          </a>
+        </li>
       </ul>
     </nav>
   );
