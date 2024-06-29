@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import MenuItem from './MenuItem';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faHamburger, faBottleWater, faBacon, faBeer, faBowlFood } from '@fortawesome/free-solid-svg-icons'; // Importa le icone necessarie
+import { faHamburger, faBottleWater, faBacon, faBeer, faBowlFood } from '@fortawesome/free-solid-svg-icons';
 import '../assets/styles/MenuSection.css';
 
 const MenuSection = ({ category, items }) => {

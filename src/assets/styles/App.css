@@ -3,14 +3,14 @@
 }
 
 .menu {
-  max-width: 80%; /* Limita la larghezza massima del contenuto */
-  margin: 0 auto; /* Centra il contenuto */
-  padding: 20px; /* Aggiunge un po' di padding interno */
+  max-width: 80%;
+  margin: 0 auto;
+  padding: 20px;
 }
 
 @media (max-width: 768px) {
   .menu {
     max-width: 100%;
-    padding: 10px; /* Riduce il padding su schermi piccoli */
+    padding: 10px;
   }
 }

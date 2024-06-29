@@ -1,25 +1,24 @@
-/* src/components/MenuItem.css */
 .menu-item {
   border: 1px solid #ddd;
-  padding: 20px; /* Aumenta il padding per più spazio interno */
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Aggiunge ombra per un effetto card */
-  border-radius: 10px; /* Aggiunge bordi arrotondati */
-  transition: transform 0.2s; /* Aggiunge transizione per l'effetto hover */
+  padding: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  transition: transform 0.2s;
 }
 
 .menu-item:hover {
-  transform: scale(1.05); /* Aggiunge effetto hover */
+  transform: scale(1.05);
 }
 
 .item-image {
   width: 100%;
   height: auto;
-  border-radius: 5px; /* Aggiunge bordi arrotondati all'immagine */
+  border-radius: 5px;
 }
 
 .item-details {
   text-align: left;
-  margin-top: 10px; /* Aggiunge margine superiore */
+  margin-top: 10px;
 }
 
 .menu-item .item-details h2 {
@@ -30,11 +29,5 @@
 @media (max-width: 1280px) {
   .menu-item {
     width: 100%;
-  }
-}
-
-@media (min-width: 1281px) {
-  .menu-item {
-    width: 29%; /* Larghezza completa per mobile di default */
   }
 }
