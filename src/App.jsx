@@ -2,11 +2,11 @@ import React from 'react';
 import Navbar from './components/Navbar';
 import MenuSection from './components/MenuSection';
 import './styles/App.css';
-import panini from './data/panini.json';
-import bibite from './data/bibite.json';
-import fritti from './data/fritti.json';
-import birre from './data/birre.json';
-import piatti from './data/piatti.json';
+import panini from './data/sandwiches.json';
+import bibite from './data/drinks.json';
+import fritti from './data/fried.json';
+import birre from './data/beers.json';
+import piatti from './data/dishes.json';
 
 const menuData = {
   Panini: panini,
