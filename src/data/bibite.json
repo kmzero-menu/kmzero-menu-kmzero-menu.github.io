@@ -2,32 +2,27 @@
     {
       "name": "Coca Cola",
       "description": "33cl",
-      "price": "2.00",
-      "image": "/images/cocacola.jpg"
+      "price": "2.00"
     },
     {
       "name": "Coca Cola Zero",
       "description": "33cl",
-      "price": "2.00",
-      "image": "/images/cocacola.jpg"
+      "price": "2.00"
     },
     {
       "name": "Fanta",
       "description": "33cl",
-      "price": "2.00",
-      "image": "/images/acqua.jpg"
+      "price": "2.00"
     },
     {
       "name": "Acqua naturale",
       "description": "50cl",
-      "price": "1.00",
-      "image": "/images/acqua.jpg"
+      "price": "1.00"
     },
     {
       "name": "Acqua frizzante",
       "description": "50cl",
-      "price": "1.00",
-      "image": "/images/acqua.jpg"
+      "price": "1.00"
     }
   ]
   

@@ -1,13 +1,15 @@
 import React from 'react';
-import '../assets/styles/MenuItem.css';
+import '../styles/MenuItem.css';
 
 const MenuItem = ({ item }) => {
   return (
     <div className="menu-item">
       <div className="item-details">
-        <h2>{item.name}</h2>
+        <h2>
+          <span className="item-name">{item.name}</span>
+          <span className="item-price">{item.price}€</span>
+        </h2>
         <p>{item.description}</p>
-        <p>{item.price} €</p>
       </div>
     </div>
   );

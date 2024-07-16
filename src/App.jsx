@@ -1,7 +1,7 @@
 import React from 'react';
 import Navbar from './components/Navbar';
 import MenuSection from './components/MenuSection';
-import './assets/styles/App.css';
+import './styles/App.css';
 import panini from './data/panini.json';
 import bibite from './data/bibite.json';
 import fritti from './data/fritti.json';

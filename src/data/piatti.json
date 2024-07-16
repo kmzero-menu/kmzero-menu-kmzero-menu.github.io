@@ -2,31 +2,26 @@
     {
       "name": "Ceasar salad crispy",
       "description": "Pollo croccante, insalata, pane croccante, pancetta, salsa KmZero",
-      "price": "8,50",
-      "image": "/images/cocacola.jpg"
+      "price": "8,50"
     },
     {
       "name": "Ceasar salad",
       "description": "Petto di pollo grigliato, salsa yogurt, pane cunzato, bocconcini di mozzarella",
-      "price": "8,50",
-      "image": "/images/cocacola.jpg"
+      "price": "8,50"
     },
     {
       "name": "Il saporito",
       "description": "Hamburger 180gr, pancetta croccante, cacio piastrato",
-      "price": "9,00",
-      "image": "/images/cocacola.jpg"
+      "price": "9,00"
     },
     {
       "name": "Il fresco",
       "description": "Petto di pollo, pomodoro, cipolla, provola piastrata, lattuga",
-      "price": "9,00",
-      "image": "/images/cocacola.jpg"
+      "price": "9,00"
     },
     {
       "name": "Il vegetariano",
       "description": "Cotoletta di melanzana, zucchine, valeriana, cacio piastrato",
-      "price": "8,00",
-      "image": "/images/cocacola.jpg"
+      "price": "8,00"
     }
 ]

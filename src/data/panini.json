@@ -2,98 +2,82 @@
 	{
 		"name": "Pollo fritto",
 		"description": "Petto di pollo fritto homemade, mayo alla menta, stracciata alla nduja, chips di zucchine, cipolla rossa",
-      		"price": "11,90",
-      		"image": "/images/panino1.jpg"
-    	},
-    	{
-      		"name": "Bocconcino",
-      		"description": "Hamburger di vitello 180gr, mayo al pomodoro, lattuga, prosciutto crudo, bocconcino di mozzarella impanato con i corn flakes, pesto di basilico",
-      		"price": "10,90",
-      		"image": "/images/panino2.jpg"
-    	},
-    	{
-      		"name": "Crispy zero",
-      		"description": "Hamburger 180gr, doppia pancetta croccante, doppia scamorza, salsa KMzero",
-      		"price": "8,50",
-      		"image": ""
+		"price": "11,90"
+	},
+	{
+		"name": "Bocconcino",
+		"description": "Hamburger di vitello 180gr, mayo al pomodoro, lattuga, prosciutto crudo, bocconcino di mozzarella impanato con corn flakes, pesto di basilico",
+		"price": "10,90"
+	},
+	{
+		"name": "Crispy zero",
+		"description": "Hamburger 180gr, doppia pancetta croccante, doppia scamorza, salsa KMzero",
+		"price": "8,50"
 	},
 	{
 		"name": "Burroso 2.0",
-		"description": "Hamburger 180gr, mayo alla menta, zucchine, stracciata alla 'nduja, cipolla caramellata",
-		"price": "13,00",
-		"image": ""
+		"description": "Hamburger 180gr, mayo alla menta, zucchine, stracciata alla nduja, cipolla caramellata",
+		"price": "13,00"
 	},
 	{
 		"name": "Gustoso",
-		"description": "Hamburger 180gr, provola impanata con i corn flakes, mortadella, pistacchio",
-		"price": "10,00",
-		"image": ""
+		"description": "Hamburger 180gr, provola impanata con corn flakes, mortadella, pistacchio",
+		"price": "10,00"
 	},
 	{
 		"name": "Pollo crispy",
-		"description": "Cotoletta di pollo homemade, oancetta croccante, cipolla caramellata, insalata verde e salsa KMzero",
-		"price": "9,50",
-		"image": ""
+		"description": "Cotoletta di pollo homemade, pancetta croccante, cipolla caramellata, insalata verde, salsa KMzero",
+		"price": "9,50"
 	},
 	{
 		"name": "Mi fa fame",
 		"description": "Hamburger 180gr, maionese, pancetta croccante, provola silana, cipolla rossa di Tropea caramellata",
-		"price": "8,50",
-		"image": ""
+		"price": "8,50"
 	},
 	{
 		"name": "Fresco",
 		"description": "Hamburger 180gr, mayo al pomodoro, lattuga, pomodoro, provola silana, cipolla rossa di Tropea",
-		"price": "7,00",
-		"image": ""
+		"price": "7,00"
 	},
 	{
 		"name": "Aspromonte",
 		"description": "Hamburger 180gr, provola, maio alla nduja, patate della Sila, valeriana",
-		"price": "9,00",
-		"image": ""
+		"price": "9,00"
 	},
 	{
 		"name": "Pulled Pork",
-		"description": "Pulled pork, pancetta croccante, scamorza, patate fritte e salsa BBQ",
-		"price": "10,00",
-		"image": ""
+		"description": "Pulled pork, pancetta croccante, scamorza, patate fritte, salsa BBQ",
+		"price": "10,00"
 	},
 	{
 		"name": "Sua porcosità",
 		"description": "Cotoletta di pollo, provola, mortadella, crema di pistacchio",
-		"price": "9,00",
-		"image": ""
+		"price": "9,00"
 	},
 	{
 		"name": "Pulledoso",
-		"description": "Pulled Pork, valeriana, scamorza affumicata, cipolla caramellata e salsa BBQ",
-		"price": "10,00",
-		"image": ""
+		"description": "Pulled Pork, valeriana, scamorza affumicata, cipolla caramellata, salsa BBQ",
+		"price": "10,00"
 	},
 	{
 		"name": "Stragusto",
 		"description": "Stracetti di pollo, pancetta, provola, valeriana, maionese",
-		"price": "8,50",
-		"image": ""
+		"price": "8,50"
 	},
 	{
 		"name": "Mandorlo",
 		"description": "Hamburger 180gr, bocconcini di mozzarella, pesto di basilico, scaglie di mandorle, crudo, valeriana",
-		"price": "11,00",
-		"image": ""
+		"price": "11,00"
 	},
 	{
 		"name": "Estivo",
 		"description": "Hamburger di vitello 180gr, prosciutto crudo, valeriana, stracciata, 'nduja, pesto di basilico",
-		"price": "12,00",
-		"image": ""
+		"price": "12,00"
 	},
 	{
 		"name": "Polpettoso",
 		"description": "Hamburger 180gr, valeriana, mortadella, ricotta, polpettine, pistacchio",
-		"price": "11,00",
-		"image": ""
+		"price": "11,00"
 	}
   ]
   

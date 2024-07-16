@@ -1,5 +1,5 @@
 import React from 'react';
-import '../assets/styles/Navbar.css';
+import '../styles/Navbar.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faInstagram } from '@fortawesome/free-brands-svg-icons';
 

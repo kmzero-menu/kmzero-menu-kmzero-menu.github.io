@@ -1,0 +1,34 @@
+.menu-item {
+  border: 1px solid #ddd;
+  padding: 0px 20px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 7px;
+  width: 100%;
+}
+
+.item-details {
+  text-align: left;
+  margin-top: 10px;
+}
+
+.menu-item .item-details h2 {
+  box-shadow: none;
+  background-color: transparent;
+  border-radius: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0;
+  padding: 10px 0;
+  border-bottom: 2px solid #035f29;
+}
+
+.item-name {
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.item-price {
+  font-size: 0.8em;
+  font-weight: bold;
+}
